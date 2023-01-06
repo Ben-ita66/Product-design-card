@@ -36,12 +36,24 @@ This is a product design showing of the beautiful perfume with extra ordinary sc
 
 ### Links
 
-- Solution URL: [view html solution URL here](https://github.com/Ben-ita66/Product-design-card/blob/main/index.html)
-               - [view css solution URL here](
+- Html solution URL: [view solution URL here](https://github.com/Ben-ita66/Product-design-card/blob/main/index.html)
+- Css solution URL: [view solution URL here](https://github.com/Ben-ita66/Product-design-card/blob/main/style.css)
 - Live Site URL: [View live site here](https://ben-ita66.github.io/Product-design-card/)
+
+## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+
+```html
+<h1>Some HTML code I'm proud of</h1>
+```
+```css
+.proud-of-this-css {
+  color: papayawhip;
+}
+```
