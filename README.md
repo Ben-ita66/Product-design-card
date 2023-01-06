@@ -36,7 +36,8 @@ This is a product design showing of the beautiful perfume with extra ordinary sc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [view html solution URL here](https://github.com/Ben-ita66/Product-design-card/blob/main/index.html)
+               - [view css solution URL here](
 - Live Site URL: [View live site here](https://ben-ita66.github.io/Product-design-card/)
 
 ### Built with
