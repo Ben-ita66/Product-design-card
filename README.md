@@ -26,7 +26,13 @@ This is a product design showing of the beautiful perfume with extra ordinary sc
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#Desktop-view
+
+![Desktop-view](https://user-images.githubusercontent.com/105381032/211025301-db61c448-ca3a-44a3-93cc-1ee74e63055d.png)
+
+#Mobile-views
+
+![Mobile-view(1)](https://user-images.githubusercontent.com/105381032/211025662-4fe4d9d1-8b94-4be6-b195-6c05a0bbb66f.jpg)
 
 ### Links
 
@@ -38,5 +44,3 @@ This is a product design showing of the beautiful perfume with extra ordinary sc
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
