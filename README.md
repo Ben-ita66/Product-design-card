@@ -11,10 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -48,12 +44,11 @@ This is a product design showing of the beautiful perfume with extra ordinary sc
 - CSS custom properties
 - Flexbox
 
+### What I learned
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
+```@media  (max-width:500px) and (min-width:300px) {
+    .main{
+        flex-direction: column;
+        margin-left: 70px;
+    }
 ```
